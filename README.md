@@ -3,17 +3,17 @@ The project focuses on classifying movies into multiple genres using plot summar
 
 **Key Features:**
 
-1.Data Preprocessing:
+**1.Data Preprocessing:**
   Cleans and preprocesses movie plot summaries and genre labels.
   
-2.Feature Extraction:
+**2.Feature Extraction:**
   Uses TF-IDF vectorization to transform text data into numerical features.
   
-3.Modeling: 
+**3.Modeling: **
   Trains models using:
     Naive Bayes
     Logistic Regression
     XGBoost
     
-4.Evaluation:
+**4.Evaluation:**
   Measures model performance with accuracy, classification reports, confusion matrices, and precision-recall/ROC curves.
