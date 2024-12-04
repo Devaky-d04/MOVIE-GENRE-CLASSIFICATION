@@ -9,8 +9,8 @@ The project focuses on classifying movies into multiple genres using plot summar
 **2.Feature Extraction:**
   Uses TF-IDF vectorization to transform text data into numerical features.
   
-**3.Modeling: **
-  Trains models using:
+****3.Modeling: **
+  Trains models using:**
     Naive Bayes
     Logistic Regression
     XGBoost
